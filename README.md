@@ -1,7 +1,13 @@
 # MATERI 1 - LINEAR LAYOUT
 
 ## - - Penjelasan - -
-Besok ya pak :D
+- Tampilan tambahan: Splash Screen, fitur ini dijadikan Activity/Launcher pertama yangg akan dijalankan. Untuk Splash Screen, saya hanya menggunakan method Intent dan menambahkan waktu untuk durasi Splash Screen.
+
+- Linear Layout: Susunan tata letak yang paling simple dapat digunakan para developer android, karena layout ini hanya memberikan susunan tata letak komponen secara garis lurus (vertical atau horizontal).
+
+- Relative Layout: Penataan layout yang menempatkan widget-widget didalamnya seperti layer, sehingga sebuah widget dapat berada di atas, di bawah atau di samping widget lainnya. Atau dengan kata lain Relative merupakan layout yang penataannya lebih bebas sehingga bisa di tata sesuai keinginan. Jadi, Relative Layout adalah tampilan pada aplikasi dengan tata letak objek atau komponen secara bebas tanpa aturan sesuai orientasi (vertical atau horizontal) seperti pada Linear Layout.
+
+- Intent: Mekanisme untuk melakukan sebuah action dan komunikasi antar komponen aplikasi misal activity, services, dan broadcast receiver. Ada tiga penggunaan umum intent dalam aplikasi Android yaitu: Menjalankan background services, Mengirimkan objek broadcast ke aplikasi yang membutuhkan, dan Memindahkan satu activity ke activity lainnya dengan atau tidak membawa data.
 
 
 ## - - Jawaban Soal - -
