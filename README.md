@@ -1,7 +1,6 @@
 # MATERI 1 - LINEAR LAYOUT
 
 ## - - Penjelasan - -
-- Tampilan tambahan: Splash Screen, fitur ini dijadikan Activity/Launcher pertama yangg akan dijalankan. Untuk Splash Screen, saya hanya menggunakan method Intent dan menambahkan waktu untuk durasi Splash Screen.
 
 - Linear Layout: Susunan tata letak yang paling simple dapat digunakan para developer android, karena layout ini hanya memberikan susunan tata letak komponen secara garis lurus (vertical atau horizontal).
 
